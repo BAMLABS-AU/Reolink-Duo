@@ -16,7 +16,7 @@
 <br><br>
 <h2 align="center">Download Link</h2>
 
-<a href="https://github.com/BAMLABS-AU/Reolink-Duo/blob/main/firmware/IPC_528B174MP.804_22011737.Reolink-Duo-PoE.GC4653.4MP.REOLINK.pak?raw=true" download="Download Link">download this</a>
+The firmware download link is available here: <a href="https://github.com/BAMLABS-AU/Reolink-Duo/blob/main/firmware/IPC_528B174MP.804_22011737.Reolink-Duo-PoE.GC4653.4MP.REOLINK.pak?raw=true" download="Download Link">DOWNLOAD</a>
 
 <br><br>
 <h2 align="center">Screenshots</h2>
