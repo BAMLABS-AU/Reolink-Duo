@@ -7,10 +7,12 @@
   <a href="#"><img src="https://img.shields.io/badge/details-IPC_528B174MPS19E1W02100000001-orange?style=flat-square&logo=appveyor"></a>
 </p>
 
+
 <h2 align="center">Firmware Information / Fixes</h2>
 
 1. Fixes the issues with the sceen tearing on RTSP streams using BlueIris.
 2. Unknown other fixes as reolink support staff did not have all the info on the update as of yet.
+
 
 <h2 align="center">Screenshots</h2>
 
