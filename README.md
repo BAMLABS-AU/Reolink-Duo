@@ -10,9 +10,9 @@
 
 <h2 align="center">Information / Download</h2>
 
-1. Fixes the issues with the sceen tearing on RTSP streams using BlueIris.
-2. This firmware is unreleased as of the 01/08/2022. Firmware was sent direct from support to me and I am sharing for others to use.
-3. Unknown other fixes as reolink support staff did not have all the info on the update as of yet.
+* Fixes the issues with the sceen tearing on RTSP streams using BlueIris.
+* This firmware is unreleased as of the 01/08/2022. Firmware was sent direct from support to me and I am sharing for others to use.
+* Unknown other fixes as reolink support staff did not have all the info on the update as of yet.
 
 * The firmware download link is available here: <a href="https://github.com/BAMLABS-AU/Reolink-Duo/blob/main/firmware/IPC_528B174MP.804_22011737.Reolink-Duo-PoE.GC4653.4MP.REOLINK.pak?raw=true" download="Download Link">DOWNLOAD</a>
 * Reolink firmware support page <a href="https://support.reolink.com/hc/en-us/articles/900004550323-How-to-Upgrade-Firmware-via-Reolink-Client-New-Client-" download="Support Link">INSTALLATION INSTRUCTIONS</a>
