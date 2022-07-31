@@ -8,3 +8,8 @@
 </p>
 
 <h2 align="center">Firmware Information / Fixes</h2>
+
+
+<h2 align="center">Screenshots</h2>
+
+![duo_info](https://raw.githubusercontent.com/BAMLABS-AU/Reolink-Duo/main/images/duo_infoscreen.png)
