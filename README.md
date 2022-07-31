@@ -9,8 +9,8 @@
 
 <h2 align="center">Firmware Information / Fixes</h2>
 
-> FIX: Fixes the issues with the sceen tearing on RTSP streams using BlueIris <br>
-> INFO: Unknown other fixes as reolink support staff did not have all the info on the update as of yet. <br>
+1. Fixes the issues with the sceen tearing on RTSP streams using BlueIris.
+2. Unknown other fixes as reolink support staff did not have all the info on the update as of yet.
 
 <h2 align="center">Screenshots</h2>
 
