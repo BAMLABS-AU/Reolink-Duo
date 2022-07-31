@@ -14,6 +14,10 @@
 2. Unknown other fixes as reolink support staff did not have all the info on the update as of yet.
 
 <br><br>
+<h2 align="center">Download Link</h2>
+
+[Download Link] (https://github.com/BAMLABS-AU/Reolink-Duo/blob/main/firmware/IPC_528B174MP.804_22011737.Reolink-Duo-PoE.GC4653.4MP.REOLINK.pak?raw=true)
+<br><br>
 <h2 align="center">Screenshots</h2>
 
 ![duo_info](https://raw.githubusercontent.com/BAMLABS-AU/Reolink-Duo/main/images/duo_infoscreen.png)
